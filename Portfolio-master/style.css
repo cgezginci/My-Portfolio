@@ -397,7 +397,7 @@ section {
 
 .portfolio-box img {
   width: 100%;
-  object-fit: cover;
+  object-fit: contain;
   aspect-ratio: 4/3;
   transition: 0.2s ease;
 }
